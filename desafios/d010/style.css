@@ -1,0 +1,15 @@
+body{
+    background: url(imagens/espaco.jpg);
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+}
+
+main{
+    background-color: hsl(0, 0%, 0%, 50%);
+    padding: 5px, 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+

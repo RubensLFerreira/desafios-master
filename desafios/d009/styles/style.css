@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    color: white;
+    width: 100%;
+    border: 2px solid yellow;
+    font-family: arial;
+  }
+
+  p{
+      color: white;
+      text-align: center;
+      font-size: 15pt;
+  }
+
+  img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  img.thumb {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+  }
+
+  img.menu1{
+    width:auto;
+    height:auto;
+    position:absolute;
+    top: 35%;
+    left: 37%;
+    margin-top:-50px;
+    margin-left:-50px;
+}
+
+img.menu2{
+    width:auto;
+    height:auto;
+    position:absolute;
+    top: 35%;
+    left: 52%;
+    margin-top:-50px;
+    margin-left:-50px;
+}
+
+img.menu3{
+    width:auto;
+    height:auto;
+    position:absolute;
+    top: 55%;
+    left: 37%;
+    margin-top:-50px;
+    margin-left:-50px;
+}
+
+img.menu4{
+    width:auto;
+    height:auto;
+    position:absolute;
+    top: 55%;
+    left: 52%;
+    margin-top:-50px;
+    margin-left:-50px;
+}
+
+div.video{
+    display: block;
+    margin-left: 30%;
+    
+}
+  
